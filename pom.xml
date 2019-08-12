@@ -34,8 +34,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>maven-snapshots</id>
-			<name>maven-snapshots</name>
+			<id>nexus</id>
+			<name>jenkinsJob</name>
 			<url>http://localhost:8081/repository/jenkinsJob</url>
 		</repository>
 	</distributionManagement>
